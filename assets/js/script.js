@@ -42,6 +42,7 @@ function createTaskCard(task) {
 
 // Todo: create a function to render the task list and make cards draggable
 function renderTaskList() {
+  taskList = JSON.parse(localStorage.getItem("tasks")) || [];
   const todoList = $('#todo-cards');
   const inProgressList = $('#in-progress-cards');
   const doneList = $('#done-cards');
