@@ -4,4 +4,4 @@ made a a simple task board application that allows a team to manage project task
 ## Screenshot
 [https://github.com/Sethav123/task-bord/blob/main/assets/Screenshot%20(6).png](https://github.com/Sethav123/task-bord/blob/main/Screenshot%20(7).png)
 ## Link
-
+https://sethav123.github.io/task-bord/
